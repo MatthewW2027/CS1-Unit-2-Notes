@@ -1,1 +1,14 @@
+.flex-item{
+    width: 100px; 
+    height: 100px; 
+    background-color: red;
+    margin: 10px;
+}
 
+.flex-container{ 
+    display: flex;
+    border: 2px solid rgb(0, 157, 255); 
+    justify-content: center; 
+    justify-content:space-around;
+    justify-content:space-between;
+}
